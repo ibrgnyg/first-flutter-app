@@ -2,6 +2,7 @@
 
 https://fakestoreapi.com/  (api used)
 
+ http: ^0.13.4  http: ^0.13.4 - v
 
 
 # Home Page
